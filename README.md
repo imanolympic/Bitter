@@ -33,5 +33,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented bonus stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/ULrorCAptMKteemxgR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
