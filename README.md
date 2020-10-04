@@ -1,8 +1,8 @@
 # Project 3 - *Bitter*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Bitter** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
