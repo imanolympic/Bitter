@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/ojC22tixmFYgk0VXLJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://media.giphy.com/media/WzTrQpE7Je9mCu0gYo/giphy.gif  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 # Bitter - Part I
 
 **Bitter** is a basic twitter app to read your tweets.
