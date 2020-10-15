@@ -26,8 +26,17 @@ class HomeTableTableViewController: UITableViewController {
         
         loadTweets()
         
+        self.tableView.rowHeight = UITableView.automaticDimension
+        self.tableView.estimatedRowHeight = 100
+        
         myRefreshControl.addTarget(self, action: #selector(loadTweets), for: .valueChanged)
         tableView.refreshControl = myRefreshControl
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        self.loadTweets()
     }
     
     @objc func loadTweets() {
@@ -89,6 +98,12 @@ class HomeTableTableViewController: UITableViewController {
         let tweetContent:String = tweetArray[indexPath.row]["text"] as! String
         cell.userTweetLabel.text = tweetContent
         
+        cell.setFavorited(tweetArray[indexPath.row]["favorited"] as! Bool)
+        print(tweetArray[indexPath.row])
+        cell.tweetID = tweetArray[indexPath.row]["id"] as! Int
+        
+        cell.setRetweeted(tweetArray[indexPath.row]["retweeted"] as! Bool)
+        
         return cell
     }
     
@@ -101,6 +116,7 @@ class HomeTableTableViewController: UITableViewController {
         // #warning Incomplete implementation, return the number of rows
         return tweetArray.count
     }
+  
     
 //    override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
 //        print("willDisplay")
