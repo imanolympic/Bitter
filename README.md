@@ -25,7 +25,10 @@ Here's a walkthrough of implemented user stories:
 ## Authentication State Persistance
 <img src='https://media.giphy.com/media/nJVvRZ5XL2EYbaIoG8/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Liking and Retweeting a Tweet
 <img src='https://media.giphy.com/media/ojC22tixmFYgk0VXLJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Composing a Tweet
 <img src='https://media.giphy.com/media/WzTrQpE7Je9mCu0gYo/giphy.gif'  title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
 
