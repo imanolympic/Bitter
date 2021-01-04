@@ -34,7 +34,6 @@ Here's a walkthrough of implemented user stories:
 ## Composing a Tweet
 <img src='https://media.giphy.com/media/WzTrQpE7Je9mCu0gYo/giphy.gif'  title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
-<img src='https://media.giphy.com/media/nJVvRZ5XL2EYbaIoG8/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+# Pulling to Refresh
 <img src='https://media.giphy.com/media/ULrorCAptMKteemxgR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
